@@ -6,6 +6,7 @@ $action = isset( $_GET['action'] ) ? $_GET['action'] : "";
 switch ( $action ) {
   case 'archive':
     archive();
+    $estado = 1;
     break;
   case 'viewArticle':
     viewArticle();
