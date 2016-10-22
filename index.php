@@ -1,5 +1,7 @@
 <?php
 
+// usado para crear un cms y para pruebas con Git
+
 require( "config.php" );
 $action = isset( $_GET['action'] ) ? $_GET['action'] : "";
 
