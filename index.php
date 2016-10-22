@@ -6,14 +6,14 @@ $action = isset( $_GET['action'] ) ? $_GET['action'] : "";
 switch ( $action ) {
   case 'archive':
     archive();
-    $estado = 1;
+    // $estado = 1; Esto se añadió como pruebas de git
     break;
   case 'viewArticle':
     viewArticle();
     break;
   default:
     homepage();
-    $estado = 5;
+    // $estado = 5; Esto se añadió como pruebas de git
 }
 
 function archive() {
