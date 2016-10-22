@@ -6,4 +6,7 @@ A partir de aquí realizaremos prácticas para la creación de un CMS completo.
 
 De momento estamos trabajando en pruebas con Git.
 
+Ahora escribo esta línea nueva en este archivo, estando en la rama master. PReviamente había escrito otros cambios en la  testing.
+
+
 
