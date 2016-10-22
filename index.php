@@ -12,6 +12,7 @@ switch ( $action ) {
     break;
   default:
     homepage();
+    $estado = 5;
 }
 
 function archive() {
