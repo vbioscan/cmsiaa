@@ -4,3 +4,6 @@ Esta es una prueba de primer repositorio en GitHub partiendo de un código de ej
 
 A partir de aquí realizaremos prácticas para la creación de un CMS completo.
 
+De momento estamos trabajando en pruebas con Git.
+
+
